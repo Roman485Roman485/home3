@@ -1,0 +1,14 @@
+.box {
+	border: 5px double black;
+	border-radius: 10px;
+	margin-left: 37%;
+	margin-right: 37%;
+	margin-top: 15%;
+	background-color: grey;
+	padding: 2%;
+}
+body {
+	text-align: center;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
